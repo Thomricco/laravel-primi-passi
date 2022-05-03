@@ -36,12 +36,12 @@
     <nav>
         <a href="{{ route('contatti') }}">CONTATTI</a>
         <a href="{{ route('home') }}">HOME</a>
-        <a href="{{ route('informazioni') }}">Info</a>
-
+        <a href="{{ route('informazioni') }}">INFO</a>
+        
     </nav>
 
     <main>
-        <h1>LARAVEL PRIMI PASSI</h1>
+        <h1>INFORMAZIONI</h1>
     </main>
 
     <footer>

@@ -34,8 +34,9 @@
 <body>
 
     <nav>
-        <a href="{{route ('contatti')}}">CONTATTI</a>
-        <a href="{{route ('home')}}">HOME</a>
+        <a href="{{ route('contatti') }}">CONTATTI</a>
+        <a href="{{ route('home') }}">HOME</a>
+        <a href="{{ route('informazioni') }}">Info</a>
         
     </nav>
 
